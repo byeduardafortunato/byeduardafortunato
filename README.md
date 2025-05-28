@@ -17,7 +17,7 @@
 
 ## Work Experience
 **Quality Control Assistant**  
-Bleistahl Brasil Metalurgia  
+Bleistahl Brasil Metalurgia — since 2024
 (Formerly at Gestamp Brasil – 2022 to 2024)
 
 ---
@@ -41,8 +41,8 @@ Bleistahl Brasil Metalurgia
 
 ## Experiência Profissional
 **Auxiliar de Controle da Qualidade**  
-Bleistahl Brasil Metalurgia  
-(Experiência anterior: Gestamp Brasil – 2022 a 2024)
+Bleistahl Brasil Metalurgia  — desde Jun/2024
+(Experiência anterior: Gestamp Brasil – 2022 a mai/2024)
 
 ---
 
