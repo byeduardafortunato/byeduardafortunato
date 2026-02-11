@@ -5,7 +5,7 @@
 - Student of **System Development**
 - Currently learning: **HTML**, **CSS**, **JavaScript**
 - Tools: **Visual Studio Code**, **Microsoft Excel**, **Word**, **PowerPoint**
-- Experience in **Quality Control an Production** – Metallurgical industry
+- Experience in **Quality Control and Production** – Metallurgical industry
 - Languages: **Portuguese** (native), **English** (basic)
 
 ## Education
