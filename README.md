@@ -12,7 +12,7 @@
 - High school graduate – E.E.E.M Frantz Machado Charão (2022)
 - Administrative course – Pop Escolas (2019)
 - Essential computing course – Pop Escolas (2019)
-- Basic English course – Pop Escolas (2020–2022)
+- Currently Studying for a Technical Degree in Systems Development - Senac RS since Apr/2025
 - Participated in the "Jovens do Futuro" (Youth of the Future) lecture – QI Technical College
 
 ## Work Experience
@@ -36,7 +36,7 @@ Bleistahl Brasil Metalurgia – since 2024
 - Ensino médio completo – E.E.E.M Frantz Machado Charão (2022)  
 - Curso de administração – Pop Escolas (2019)  
 - Curso de informática essencial – Pop Escolas (2019)  
-- Curso de inglês básico – Pop Escolas (2020–2022)  
+- Cursando Técnico em Desenvolvimento de Sistemas - Senac RS desde abr/2025  
 - Participou da palestra "Jovens do Futuro" – QI Faculdade e Escola Técnica
 
 ## Experiência Profissional
