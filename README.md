@@ -5,7 +5,7 @@
 - Student of **System Development**
 - Currently learning: **HTML**, **CSS**, **JavaScript**
 - Tools: **Visual Studio Code**, **Microsoft Excel**, **Word**, **PowerPoint**
-- Experience in **Quality Control** – Metallurgical industry
+- Experience in **Quality Control an Production** – Metallurgical industry
 - Languages: **Portuguese** (native), **English** (basic)
 
 ## Education
@@ -29,7 +29,7 @@ Bleistahl Brasil Metalurgia – since 2024
 - Estudante de **Desenvolvimento de Sistemas**  
 - Aprendendo: **HTML**, **CSS**, **JavaScript**  
 - Ferramentas: **Visual Studio Code**, **Excel**, **Word**, **PowerPoint**  
-- Experiência em **Controle de Qualidade** – Indústria metalúrgica  
+- Experiência em **Controle de Qualidade e Produção** – Indústria metalúrgica  
 - Idiomas: **Português** (nativo), **Inglês** (básico)  
 
 ## Formação
