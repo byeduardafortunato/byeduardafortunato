@@ -16,7 +16,7 @@
 - Participated in the "Jovens do Futuro" (Youth of the Future) lecture – QI Technical College
 
 ## Work Experience
-**Quality Control Assistant**  
+**Operator Production**  
 Bleistahl Brasil Metalurgia – since 2024
 (Formerly at Gestamp Brasil – 2022 to 2024)
 
@@ -40,7 +40,7 @@ Bleistahl Brasil Metalurgia – since 2024
 - Participou da palestra "Jovens do Futuro" – QI Faculdade e Escola Técnica
 
 ## Experiência Profissional
-**Auxiliar de Controle da Qualidade**  
+**Operadora de Produção**  
 Bleistahl Brasil Metalurgia – desde Jun/2024
 (Experiência anterior: Gestamp Brasil – 2022 a mai/2024)
 
